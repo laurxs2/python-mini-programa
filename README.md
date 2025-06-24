@@ -1,4 +1,4 @@
-###Pequeno Programa em Python
+### Pequeno Programa em Python
 Este é um pequeno programa desenvolvido em Python com o objetivo de praticar a linguagem e criar soluções simples para o dia a dia no meu ambiente de trabalho.
 
 O sistema contém funcionalidades básicas que criei para otimizar meu tempo, tais como:
